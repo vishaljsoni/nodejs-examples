@@ -9,7 +9,7 @@
     "node": "~v0.4.11"
   },
   "dependencies": {
-    "express": "~v2.4.6"
+    "express": "~3.0.0"
   },
   "devDependencies": {}
 }
